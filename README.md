@@ -8,7 +8,7 @@
 
 <p align="center"> Atualmente trabalho como Front-End.</p>
 <p align="center"> Estageio na 2ª Auditoria da 3ª Circunscrição Juridica Militar - Justiça Militar da União - Bagé/RS.</p>
-  <p align="center"> Estudo Sistemas de Informação, encontro-me no 6º semestre da mesma 💻👨🏾‍🎓</p>
+  <p align="center"> Estudo Sistemas de Informação, encontro-me no 7º semestre da mesma 💻👨🏾‍🎓</p>
   <p align="center"> Em desenvolvimento para Full-Stack 👨‍💻 </p>
 
  </div> 
